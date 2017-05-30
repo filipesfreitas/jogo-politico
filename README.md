@@ -1,6 +1,6 @@
 # Análise do jogo político na Câmara dos Deputados
 
-Esse repositório contém um exemplo prático de como extrair e analisar dados de votações utilizando a API de Dados Abertos da Câmara dos Deputados.
+Esse repositório contém um exemplo prático de como extrair e analisar dados de votações utilizando a [API de Dados Abertos da Câmara dos Deputados](https://dadosabertos.camara.leg.br).
 
 # Dependências
 
@@ -20,6 +20,7 @@ jupyter notebook
 
 # Referências
 
+* [Dados Abertos da Câmara dos Deputados](https://dadosabertos.camara.leg.br)
 * [Analyzing the U.S. Senate in 2003: Similarities, Clusters, and Blocs](http://www.stat.columbia.edu/~jakulin/Politics/)
 * [k-means clustering US Senators](https://www.dataquest.io/blog/k-means-clustering-us-senators)
 * [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://lvdmaaten.github.io/tsne/)

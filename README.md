@@ -24,6 +24,7 @@ jupyter notebook
 * [Analyzing the U.S. Senate in 2003: Similarities, Clusters, and Blocs](http://www.stat.columbia.edu/~jakulin/Politics/)
 * [k-means clustering US Senators](https://www.dataquest.io/blog/k-means-clustering-us-senators)
 * [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://lvdmaaten.github.io/tsne/)
+* [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
 * [Distance computations (scipy.spatial.distance)](https://docs.scipy.org/doc/scipy/reference/spatial.distance.html)
 * [Estadão Dados: Basômetro](http://estadaodados.com/basometro)
 * [Radar Parlamentar](http://radarparlamentar.polignu.org/)

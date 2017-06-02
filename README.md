@@ -6,6 +6,11 @@ Esse repositório contém um exemplo prático de como extrair e analisar dados d
 
 Você precisa instalar o [Anaconda (Python 3.x)](https://www.continuum.io/downloads).
 
+Para criar um ambiente com todas as dependências necessárias, execute o seguinte comando:
+```
+conda env create -f environment.yml
+```
+
 # Como executar o código
 
 Abra o terminal e clone este repositório no diretório desejado:

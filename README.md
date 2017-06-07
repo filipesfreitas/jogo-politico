@@ -5,7 +5,8 @@ Esse repositório contém um exemplo prático de como extrair e analisar dados d
 # Dependências
 
 Você precisa instalar os seguintes sotftwares:
-* [Anaconda (Python 3.x)](https://www.continuum.io/downloads)* [Git](https://www.atlassian.com/git/tutorials/install-git)
+* [Anaconda (Python 3.x)](https://www.continuum.io/downloads)
+* [Git](https://www.atlassian.com/git/tutorials/install-git)
 
 # Como executar o código
 
@@ -19,7 +20,7 @@ Navegue para o diretório do repositório clonado:
 cd jogo-politico
 ```
 
-Execute o seguinte comando para criar um ambiente com todas as dependências: ()
+Execute o seguinte comando para criar um ambiente com todas as dependências (se esse comando não funcionar, talvez você precise [configurar o proxy no Anaconda](https://conda.io/docs/config.html#configure-conda-for-use-behind-a-proxy-server-proxy-servers)): 
 ```
 conda env create -f environment.yml
 ```

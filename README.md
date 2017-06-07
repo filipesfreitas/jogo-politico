@@ -10,33 +10,33 @@ Você precisa instalar os seguintes sotftwares:
 
 # Como executar o código
 
-Abra o **terminal** (no Windows, utilize o "Anaconda Prompt") e clone este repositório no diretório desejado:
+1. Abra o **terminal** (no Windows, utilize o "Anaconda Prompt") e clone este repositório no diretório desejado:
 ```
 git clone https://github.com/thefonseca/jogo-politico.git
 ```
 
-Navegue para o diretório do repositório clonado:
+2. Navegue para o diretório do repositório clonado:
 ```
 cd jogo-politico
 ```
 
-Execute o seguinte comando para criar um ambiente com todas as dependências (se esse comando não funcionar, talvez você precise [configurar o proxy no Anaconda](https://conda.io/docs/config.html#configure-conda-for-use-behind-a-proxy-server-proxy-servers)): 
+3. Execute o seguinte comando para criar um ambiente com todas as dependências (se esse comando não funcionar, talvez você precise [configurar o proxy no Anaconda](https://conda.io/docs/config.html#configure-conda-for-use-behind-a-proxy-server-proxy-servers)): 
 ```
 conda env create -f environment.yml
 ```
 
-Ative o ambiente "dadosabertos":
+4. Ative o ambiente "dadosabertos":
+* Windows
 ```
-# Windows
 activate dadosabertos
 ```
 
+* OSX e Linux
 ```
-# OSX e Linux
 source activate dadosabertos
 ```
 
-Inicie o [Jupyter Notebook](http://jupyter.org):
+5. Inicie o [Jupyter Notebook](http://jupyter.org):
 ```
 jupyter notebook jogo-politico.ipynb
 ```

@@ -4,23 +4,40 @@ Esse repositório contém um exemplo prático de como extrair e analisar dados d
 
 # Dependências
 
-Você precisa instalar o [Anaconda (Python 3.x)](https://www.continuum.io/downloads).
-
-Para criar um ambiente com todas as dependências necessárias, execute o seguinte comando:
-```
-conda env create -f environment.yml
-```
+Você precisa instalar os seguintes sotftwares:
+* [Anaconda (Python 3.x)](https://www.continuum.io/downloads)* [Git](https://www.atlassian.com/git/tutorials/install-git)
 
 # Como executar o código
 
-Abra o terminal e clone este repositório no diretório desejado:
+Abra o **terminal** (no Windows, utilize o "Anaconda Prompt") e clone este repositório no diretório desejado:
 ```
 git clone https://github.com/thefonseca/jogo-politico.git
 ```
 
+Navegue para o diretório do repositório clonado:
+```
+cd jogo-politico
+```
+
+Execute o seguinte comando para criar um ambiente com todas as dependências: ()
+```
+conda env create -f environment.yml
+```
+
+Ative o ambiente "dadosabertos":
+```
+# Windows
+activate dadosabertos
+```
+
+```
+# OSX e Linux
+source activate dadosabertos
+```
+
 Inicie o [Jupyter Notebook](http://jupyter.org):
 ```
-jupyter notebook
+jupyter notebook jogo-politico.ipynb
 ```
 
 # Referências

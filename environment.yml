@@ -3,11 +3,11 @@ channels: !!python/tuple
 - conda-forge
 - defaults
 dependencies:
-- conda-forge::git=2.12.2=4
-- conda-forge::ipykernel=4.6.1=py36_0
-- conda-forge::matplotlib=2.0.2=np112py36_0
-- conda-forge::pandas=0.20.1=np112py36_0
-- conda-forge::python=3.6.1=3
-- conda-forge::seaborn=0.7.1=py36_0
-- scikit-learn=0.18.1=np112py36_1
-- scipy=0.19.0=np112py36_0
+- git
+- ipykernel
+- matplotlib
+- pandas
+- python=3.6
+- seaborn
+- scikit-learn
+- scipy

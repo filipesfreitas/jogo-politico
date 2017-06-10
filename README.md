@@ -4,7 +4,7 @@ Esse repositório contém um exemplo prático de como extrair e analisar dados d
 
 # Dependências
 
-Você precisa instalar os seguintes sotftwares:
+Você precisa instalar os seguintes softwares:
 * [Anaconda (Python 3.x)](https://www.continuum.io/downloads)
 * [Git](https://www.atlassian.com/git/tutorials/install-git)
 

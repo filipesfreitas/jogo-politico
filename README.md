@@ -2,6 +2,8 @@
 
 Esse repositório contém um exemplo prático de como extrair e analisar dados de votações utilizando a [API de Dados Abertos da Câmara dos Deputados](https://dadosabertos.camara.leg.br).
 
+Veja os detalhes da análise no [notebook](./jogo-politico.ipynb).
+
 # Dependências
 
 Você precisa instalar os seguintes softwares:

@@ -54,3 +54,4 @@ jupyter notebook jogo-politico.ipynb
 * [Estadão Dados: Basômetro](http://estadaodados.com/basometro)
 * [Radar Parlamentar](http://radarparlamentar.polignu.org/)
 * [Atlas Político](http://www.atlaspolitico.com.br)
+* [GovTrack (EUA)](https://www.govtrack.us)
